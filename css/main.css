@@ -1,6 +1,6 @@
 body {
-  background-color: white;
-  color:black;
+  background-color: #fff;
+  color:#000;
 }
 
 header {
@@ -64,4 +64,19 @@ footer{
 .btn-primary{
   background-color: DeepPink;
   border: none;
+  padding-bottom: 1%;
+}
+
+.contiene{
+  background-color: DeepPink;
+  padding: 1%;
+  border-radius: 3px;
+}
+
+.titulo{
+  color: #3F3F3F;
+}
+
+.informacion{
+  color: #FDCAFF;
 }
