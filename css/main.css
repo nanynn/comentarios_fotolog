@@ -61,3 +61,7 @@ footer{
 
 /* Estilos comentarios */
 
+.btn-primary{
+  background-color: DeepPink;
+  border: none;
+}
